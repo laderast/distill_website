@@ -6,7 +6,7 @@ This can also be viewed here: https://github.com/laderast/distill_website/
 
 ## Workshop Video
 
-![](https://youtu.be/0IWTJNMga-g)
+https://youtu.be/0IWTJNMga-g
 
 ## Learning Objectives
 
