@@ -6,7 +6,7 @@ This can also be viewed here: https://github.com/laderast/distill_website/
 
 ## Workshop Video
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0IWTJNMga-g" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+![](https://youtu.be/0IWTJNMga-g)
 
 ## Learning Objectives
 
